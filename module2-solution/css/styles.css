@@ -16,7 +16,7 @@ h1 {
   margin: 15px;
   text-align: center;
   font-weight: bold;
-  font-size: 200%;
+  font-size: 175%;
   color: black;
 }
 section {
@@ -43,10 +43,10 @@ div {
   width: 150px;
   text-align: center;
   margin: 0px;	
-  border-width: 2px;
+  border-width: 1px;
   border-style: solid;
   border-color: black;
-  font-size:150%;
+  font-size:125%;
 }
 #p2 {
   position: relative;
@@ -56,10 +56,10 @@ div {
   width: 150px;
   text-align: center;
   margin: 0px;	
-  border-width: 2px;
+  border-width: 1px;
   border-style: solid;
   border-color: black;
-  font-size:150%;
+  font-size:125%;
 }
 #p3 {
   position: relative;
@@ -69,10 +69,10 @@ div {
   width: 150px;
   text-align: center;
   margin: 0px;	
-  border-width: 2px;
+  border-width: 1px;
   border-style: solid;
   border-color: black;
-  font-size:150%;
+  font-size:125%;
 }
 
 .content {
@@ -88,11 +88,10 @@ div {
 
 /* Simple Responsive Framework. */
 /*.row {
-  width: 90%;
-
+  width: 100%;
 }
-
 */
+
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
